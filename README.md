@@ -32,7 +32,7 @@ Example Playbook
 
     - hosts: gitlab
       roles:
-         - { role: imunix.gitlab }
+         - { role: imunixx.gitlab }
 
 License
 -------
